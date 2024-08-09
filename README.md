@@ -12,7 +12,7 @@ These days I am getting into Game Development.
 
 I can use any language, any framework, any engine, etc. given enough time. I can teach myself anything. I am getting into Game Jams for this reason, challenging myself to use obscure tools to create. Great way to learn. 
 
-I don't promise to have the most impressive Github account, my commits will be messy and probably full of curse words. I don't like Corporate bullshit, or appealing to some future overlord to hire me letting that infect everything I do. And if I ever have my own successful studio, we will make it a point to prioritize the well-being of our devs over the interests of stakeholders. 
+I don't promise to have the most impressive Github account, my commits will be messy and probably full of curse words. I don't like Corporate bullshit, or appealing to some future overlord to hire me letting that infect everything I do. This is me in all my glory. 
 
 Thanks for reading :) 
 

@@ -4,11 +4,9 @@
 
 I'm in my early 30's and live in Austin, Texas. 
 
-I am a self-taught web developer. My own passions motivate me. I am not looking to be hired, I am not looking for funding. I create just because I CAN.
+I am a self-taught web developer. My own passions motivate me. 
 
-I stopped freelancing right before Covid happened and decided it was the perfect time to take several years off and focus on myself but now I am back. What else needs to be said?
-
-These days I am getting into Game Development. 
+These days I am creating a digital agency called Redheads, paid dev work will fund pro bono work for unsigned, local musicians.
 
 I can use any language, any framework, any engine, etc. given enough time. I can teach myself anything. I am getting into Game Jams for this reason, challenging myself to use obscure tools to create. Great way to learn. 
 
